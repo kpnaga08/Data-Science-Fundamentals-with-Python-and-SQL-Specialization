@@ -1,4 +1,4 @@
-# Data-Science-Fundamentals-with-Python-and-SQL-[Specialization](Coursera SP63R3UJA58D.png)
+# [Data-Science-Fundamentals-with-Python-and-SQL-Specialization](CourseraSP63R3UJA58D.png)
 
 This repository contains solutions, everything I learnt and did during the **[Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)** offered by [IBM - Coursera (2022)]
 
